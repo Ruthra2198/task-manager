@@ -26,3 +26,4 @@ A simple and responsive **Task Management App** built using **React**, **Vite**,
 - React Router
 
 ##Link: https://github.com/Ruthra2198/task-manager
+Deploy Link: https://task-manager-ohwf5b8ci-ruthras-projects-35c52b3d.vercel.app/
